@@ -1,0 +1,6 @@
+{
+  "name": "Polyglot — AI Language Translator",
+  "description": "Powerful, fast, and multi-lingual translation tool supporting 100+ languages with instant translation, speech recognition, voice pronunciation, dictionary insights, and phrasebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
